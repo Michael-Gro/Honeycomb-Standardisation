@@ -2,12 +2,12 @@ This is generally the code used for the paper.
 
 meth-.. is short for method..
 
-meth-1 is the code for Layer Growth
-meth-2 is the code for Vertex Displacement
-meth-3 is the code for Voronoi Expansion
+meth-1.ipynb is the code for Layer Growth
+meth-2.ipynb is the code for Vertex Displacement
+meth-3.ipynb is the code for Voronoi Expansion
 
-select-vertices can be used to generate Pointsets from Pictures
-associate-threads can be used to make these Pointsets ordered into threads (list of points) for further processing
+select-vertices.py can be used to generate Pointsets from Pictures
+associate-threads.py can be used to make these Pointsets ordered into threads (list of points) for further processing
 
 meth-4.ipynb is the code for processing code produced with meth-2, meth-3 or from manual selection
 meth-1 includes large parts optimized from meth-4
