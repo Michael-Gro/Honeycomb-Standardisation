@@ -2,8 +2,8 @@ This is generally the code used for the paper.
 
 meth-.. is short for method..
 
-meth-1.ipynb is the code for Layer Growth
-meth-2.ipynb is the code for Vertex Displacement
+meth-1.ipynb is the code for Layer Growth   \n
+meth-2.ipynb is the code for Vertex Displacement \n
 meth-3.ipynb is the code for Voronoi Expansion
 
 select-vertices.py can be used to generate Pointsets from Pictures
